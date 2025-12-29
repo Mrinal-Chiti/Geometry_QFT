@@ -1,2 +1,2 @@
 # Logic
-By a statement we mean a sentence which is either true or false but not both. 
+A variable is a placeholder for quantities. This variables will be represented by alphabets. Formally we can think of variable as undfined concept.
